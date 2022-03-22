@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISelectDuctActView.dll"</Assembly>
+    <AddInId>F6150D63-3857-4D5D-9368-3216D74A0B5F</AddInId>
+    <FullClassName>RevitAPISelectDuctActView.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Select DuctActView</Text>
+  </AddIn>
+</RevitAddIns>
